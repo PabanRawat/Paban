@@ -1,2 +1,3 @@
-# Paban
-This is my first Github
+#Paban
+This is my first Git Repository
+Author - Paban Rawat
